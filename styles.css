@@ -19,7 +19,7 @@ html
             height: 60px;
             line-height: 60px;
             padding: 20px;
-            background: yellow;
+            background:#76FF03;
             float: -1px;
             margin: 0px;
             
@@ -62,4 +62,17 @@ html
         }
         p{
             margin: 20px;
+        }
+
+        .blog-post {
+            margin: 10px;
+            background: white;
+           border: lightgray;
+           padding: 10px;
+            
+        }
+        img {
+            float: left;
+            margin-right: 10px;
+            margin-bottom: 10px;
         }
